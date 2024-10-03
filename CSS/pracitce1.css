@@ -1,0 +1,19 @@
+#box {
+    background-color: blue;
+    color: white;
+}
+/* # you can give syntax to all heading for same color or use h1, h2, h3 for individual color. */
+/* .heading {
+    color: red;
+    background-color: grey;
+} */
+
+h1, h2, h3 {
+    color:  red;
+    
+}
+
+button {
+    color: indigo;
+    background-color: lightblue;
+}

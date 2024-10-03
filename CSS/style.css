@@ -1,0 +1,66 @@
+
+/* # this will give all h1 heading for the same color" */
+h1 {
+
+    color: brown;
+} */
+/* # this will give all paragraph with the same color */
+p {
+    color: green;
+}
+/* # this help to build the buttons color */
+button {
+    color: purple;
+    background-color: rgb(235, 212, 81);
+}
+/* $ this will give u full background color */
+body {
+    background-color: rgb(192, 218, 210);
+}
+
+/* # , this will give the selected id with individual heading line color */
+
+#headingone {
+    color: lightsalmon;
+}
+
+#headingtwo {
+    color: rgb(214, 16, 16);
+}
+
+#headingthree {
+    color: rgb(65, 35, 94);
+}
+
+.myclass {
+    color: magenta;
+}
+/* $# To allign the text also use centre right left. */
+
+p {
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: blue underline;
+}
+
+
+a{
+    text-decoration: underline;
+    
+}
+/* # by font family you can set font style for your text */
+#one {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-transform: uppercase;
+    
+}
+
+#two {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+    
+}

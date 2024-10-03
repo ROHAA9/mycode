@@ -1,0 +1,58 @@
+h1 {
+    font-size: larger;
+    text-align: center;
+   color: red;
+   background-color: aquamarine;
+}
+
+#box1 {
+    height: 100px;
+    width: 200px;
+    color: red;
+    background-color: rgb(255, 217, 0);
+    font-size: 20px;
+
+}
+
+#box2 {
+    height: 50px;
+    width: 50%;
+    background-color: green;
+    margin-left: 20%;
+    font-size: 2em;
+
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#sq1 {
+    position: relative;
+    top: 10px;
+    background-image: url(/butterfly.jpg);
+    background-size: cover;
+}
+
+#sq2 {
+    position:absolute;
+    right: 30px;
+    top: 10px;
+    
+
+}
+
+#sq3 {
+    position: fixed;
+    bottom: 50px;
+}
+
+#sq4 {
+    position: sticky;
+    top: 50px;
+    left: 200px;
+}

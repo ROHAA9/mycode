@@ -1,0 +1,24 @@
+h1 
+{
+    text-align: center;
+    color: red;
+    background-color: aqua;
+}
+
+div {
+background-color: yellow;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    text-align: center;
+   border-style: solid;
+   border-color: blue;
+   border-width: 5px;
+border-radius: 12px;
+padding: 25px;
+margin: 25px;
+/* # this is used to make circle border if height 100px and width 100px*/
+/* border-radius: 50%;  */
+}

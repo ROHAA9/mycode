@@ -1,0 +1,80 @@
+h1 {
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#container {
+    height: 200px;
+    width: 600px;
+     /* display: flex; */
+    /* flex-direction: row; */
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+    /* align-content: flex-start; */
+    /* align-items: flex-start; */
+}
+
+#box1 {
+    background-color: red;
+}
+
+#box2 {
+    background-color: green;
+}
+
+#box3 {
+    background-color: blue;
+}
+
+#box4 {
+    background-color: yellow;
+}
+
+#box5 {
+    background-color: pink;
+}
+
+ul {
+    background-color: rgb(221, 109, 109);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: yellow;
+}
+
+li {
+    list-style-type: none;
+}
+
+
+.outer {
+    height: 400px;
+    width: 400px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.inner {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(117, 83, 170);
+    /* align-self: flex-start ; */
+}
